@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" width="400" src="https://img.freepik.com/free-vector/gradient-business-linkedin-banner_23-2150091566.jpg">
+<img align="center" alt="Coding" width="1000" src="https://img.freepik.com/free-vector/gradient-business-linkedin-banner_23-2150091566.jpg">
 <h1 align="center">Hi 👋, I'm Rohit Meher</h1>
 <h3 align="center">A passionate Full Stack Developer from India.</h3>
 <img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/0/1674617947228?e=2147483647&v=beta&t=FTU_isQ6VYfV5D_ueFHPWvT8ZqgDeJG3yr8Mi8lpfk0">
