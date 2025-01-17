@@ -1,4 +1,4 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Fvectors%2Fweb-development-banner&psig=AOvVaw1xISP0aQlt8Os-D4bGy-tj&ust=1737203516464000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOCdws_h_IoDFQAAAAAdAAAAABAE)](https://rohit9797-eng.io)
+<img align="center" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Fvectors%2Fweb-development-banner&psig=AOvVaw1xISP0aQlt8Os-D4bGy-tj&ust=1737203516464000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOCdws_h_IoDFQAAAAAdAAAAABAE">
 <h1 align="center">Hi 👋, I'm Rohit Meher</h1>
 <h3 align="center">A passionate Full Stack Developer from India.</h3>
 <img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/0/1674617947228?e=2147483647&v=beta&t=FTU_isQ6VYfV5D_ueFHPWvT8ZqgDeJG3yr8Mi8lpfk0">
